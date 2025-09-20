@@ -1,11 +1,11 @@
 {
-    "name": "Jean Luc Kabulu",
-    "short_name": "jean Luc KABULU",
+    "name": "portofolio_web",
+    "short_name": "portofolio_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "My website.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
