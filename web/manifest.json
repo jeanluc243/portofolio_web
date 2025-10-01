@@ -1,6 +1,6 @@
 {
-    "name": "portofolio_web",
-    "short_name": "portofolio_web",
+    "name": "hello_scaffold",
+    "short_name": "hello_scaffold",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
